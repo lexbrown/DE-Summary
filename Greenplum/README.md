@@ -1,5 +1,3 @@
-Спизжено с https://raw.githubusercontent.com/makarov-m/Yandex.Practicum.DE/main/de-project-8/README.md
-
 # The 8th Project
 
 ### Description
